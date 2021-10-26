@@ -1,4 +1,10 @@
-### Hi there 👋
+### 🌟 Sanizzang's Github 🌠
+
+![Sanizzang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanizzang&show_icons=true&theme=prussian)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanizzang&layout=compact&theme=prussian&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkang4732)](https://solved.ac/kkang4732)
 
 <!--
 **Sanizzang/Sanizzang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
