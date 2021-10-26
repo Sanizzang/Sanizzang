@@ -1,4 +1,9 @@
-### 🌟 Sanizzang's Github 🌠
+# 🌟 Sanizzang's Github 🌠
+---
+
+
+<p>📧 Contact : tksl4732@naver.com</p>
+<p>🛫 하루 하루 성장하는 개발자가 되고 싶은 개발자 꿈나무입니다.</p>
 
 ![Sanizzang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanizzang&show_icons=true&theme=prussian)
 
