@@ -9,7 +9,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkang4732)](https://solved.ac/kkang4732)
 
-<img src="https://img.shields.io/badge/HTML5-#E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 
 <!--
 **Sanizzang/Sanizzang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
