@@ -1,6 +1,6 @@
-![snake gif](https://github.com/Sanizzang/Sanizzang/blob/output/github-contribution-grid-snake.svg)
-
 # 🌟 Sanizzang's Github 🌠
+
+ <a href="https://velog.io/@sanizzang00" target="_blank"><img src="https://img.shields.io/badge/#20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
 <p>📧 Contact : tksl4732@gmail.com</p>
 <p>🛫 하루 하루 성장하는 개발자가 되고 싶은 개발자 꿈나무입니다.</p>
@@ -11,20 +11,4 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkang4732)](https://solved.ac/kkang4732)
 
-<!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
--->
 
-<!--
-**Sanizzang/Sanizzang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
