@@ -1,3 +1,5 @@
+![snake gif](https://github.com/Sanizzang/Sanizzang/blob/output/github-contribution-grid-snake.svg)
+
 # 🌟 Sanizzang's Github 🌠
 
 <p>📧 Contact : tksl4732@gmail.com</p>
