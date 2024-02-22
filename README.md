@@ -2,7 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bdb5e8,100:4a2fd0&height=180&text=NEVER%20SAY%20NEVER&animation=twinkling&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
     <div align= "center">
@@ -15,8 +14,11 @@
           <br/><img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white">
+        <br/>
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=plastic&logo=Spring&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic&logo=Spring Security&logoColor=white">
           <br/></div>
     </div>
     <div align= "center">
@@ -28,9 +30,9 @@
        </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Sanizzang&bg_color=180,504949,00000000&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanizzang&layout=compact&bg_color=180,504949,00000000&title_color=000000&text_color=000000"
-           /> 
-    [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkang4732)](https://solved.ac/profile/kkang4732)</div> 
-    </div>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">
+        
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkang4732)](https://solved.ac/kkang4732)
+        
+</div>
     
